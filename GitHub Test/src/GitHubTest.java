@@ -4,6 +4,7 @@ public class GitHubTest
 	public static void main(String[] args)
 		{
 		System.out.println("I downloaded this at school.");
+		System.out.println("I modified this at school.");
 		
 		//Add a line about modifying it at school, then upload it
 		// back to GitHub.
